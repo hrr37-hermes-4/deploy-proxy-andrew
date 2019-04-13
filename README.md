@@ -1,12 +1,11 @@
 # deploy-proxy-andrew
 
-##Description
-Deploy's proxy server for BookShelf App
-Should contain widgets for:
-  Main Info
-  Extra Details (from deploy-details-andrew)
-  Author
-  Reviews
+## Description
+Deploy's proxy server for BookShelf App. Should contain widgets for:
+  1. Main Info
+  1. Extra Details (from deploy-details-andrew)
+  1. Author
+  1. Reviews
 
 ## Usage
 Website shows books different books where :id tag is a number from 1-100;
