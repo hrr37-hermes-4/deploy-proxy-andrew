@@ -24,7 +24,7 @@ app.use(
 // kaz-service
 app.use(
   '/books/:id/info',
-  proxy({ target: 'http://localhost:3002', changeOrigin: true }),
+  proxy({ target: 'http://bookshelfmain-env.6s37i4udh3.ap-northeast-1.elasticbeanstalk.com', changeOrigin: true }),
 );
 
 // ginger-service
